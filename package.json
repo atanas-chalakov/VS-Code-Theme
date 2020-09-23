@@ -1,0 +1,21 @@
+{
+    "name": "void",
+    "displayName": "Void",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Void",
+                "uiTheme": "hc-black",
+                "path": "./themes/Void-color-theme.json"
+            }
+        ]
+    }
+}
